@@ -1,5 +1,5 @@
 # Experiment-no-6-DC-Motor-Speed-Control-Using-Arduino
-###  DATE: 5/4/2024
+###  DATE: 08/04/2024
 
 ###  NAME: Kumaravel R
 ###  ROLL NO : 212221220029
